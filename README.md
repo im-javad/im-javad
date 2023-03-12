@@ -2,33 +2,36 @@
 
 ## Specialties
 
-### weapons
-![PHP](./media/weapons/php.png)
-![LARAVEL](./media/weapons/laravel.png)
-![REACT](./media/weapons/react.png)
-![JAVASCRIPT](./media/weapons/javascript.png)
-![JQUERY](./media/weapons/jquery.png)
-![BOOTSTRAP](./media/weapons/bootstrap.png)
-![HTML5](./media/weapons/html5.png)
-![CSS3](./media/weapons/css3.png)
-![MYSQL](./media/weapons/mysql.png)
-![JSON](./media/weapons/json.png)
-![API](./media/weapons/api-programming.png)
-![REDUX](./media/weapons/redux.png)
-![SASS](./media/weapons/sass.png)
-![SQL](./media/weapons/sql.png)
-![GULP](./media/weapons/gulp.png)
-![WS](./media/weapons/web-protection.png)
+### `backend`
+![PHP](./media/back-end/php.png)
+![LARAVEL](./media/back-end/laravel.png)
+![SQL](./media/back-end/sql.png)
+![MYSQL](./media/back-end/mysql.png)
+![API](./media/back-end/api.png)
+![JSON](./media/back-end/json.png)
+![WS](./media/back-end/web-protection.png)
+![WO](./media/back-end/page-speed.png)
 
-### bullets
-![PS](./media/bullets/adobe-photoshop.png)
-![POSTMAN](./media/bullets/postman.png)
-![trello](./media/bullets/trello.png)
-![RD](./media/bullets/responsive.png)
-![GITLAB](./media/bullets/gitlab.png)
-![COMPOSER](./media/bullets/composer.png)
-![VSCODE](./media/bullets/visual-studio-code.png)
-![GIT](./media/bullets/git.png)
-![GITHUB](./media/bullets/github.png)
-
+### `frontend`
+![RD](./media/front-end/responsive.png)
+![REACT](./media/front-end/react.png)
+![JAVASCRIPT](./media/front-end/javascript.png)
+![JQUERY](./media/front-end/jquery.png)
+![BOOTSTRAP](./media/front-end/bootstrap.png)
+![HTML5](./media/front-end/html5.png)
+![CSS3](./media/front-end/css3.png)
+![REDUX](./media/front-end/redux.png)
+![SASS](./media/front-end/sass.png)
+![GULP](./media/front-end/gulp.png)
+ 
+ ### `weapons`
+![PS](./media/tools/adobe-photoshop.png)
+![POSTMAN](./media/tools/postman.png)
+![trello](./media/tools/trello.png)
+![GITLAB](./media/tools/gitlab.png)
+![COMPOSER](./media/tools/composer.png)
+![VSCODE](./media/tools/visual-studio-code.png)
+![GIT](./media/tools/git.png)
+![GITHUB](./media/tools/github.png)
+ 
  </div>
