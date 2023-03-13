@@ -1,6 +1,6 @@
 <div align="center">
 
-## Specialties
+## SPECIALTIES
 
 ### `backend`
 ![PHP](./media/back-end/php.png)
