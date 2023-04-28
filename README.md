@@ -3,8 +3,6 @@
 # Soon...
 
 ## SPECIALTIES
-
-### `<? backend ?>`
 ![PHP](./WE-KNOW/back-end/php.png)
 ![LARAVEL](./WE-KNOW/back-end/laravel.png)
 ![SQL](./WE-KNOW/back-end/sql.png)
@@ -13,8 +11,6 @@
 ![JSON](./WE-KNOW/back-end/json.png)
 ![WS](./WE-KNOW/back-end/web-protection.png)
 ![WO](./WE-KNOW/back-end/page-speed.png)
-
-### `</ frontend >`
 ![RD](./WE-KNOW/front-end/responsive.png)
 ![REACT](./WE-KNOW/front-end/react.png)
 ![JAVASCRIPT](./WE-KNOW/front-end/javascript.png)
@@ -25,8 +21,6 @@
 ![REDUX](./WE-KNOW/front-end/redux.png)
 ![SASS](./WE-KNOW/front-end/sass.png)
 ![GULP](./WE-KNOW/front-end/gulp.png)
- 
- ### `/* weapons */`
 ![PS](./WE-KNOW/weapons/adobe-photoshop.png)
 ![POSTMAN](./WE-KNOW/weapons/postman.png)
 ![trello](./WE-KNOW/weapons/trello.png)
@@ -35,5 +29,6 @@
 ![VSCODE](./WE-KNOW/weapons/visual-studio-code.png)
 ![GIT](./WE-KNOW/weapons/git.png)
 ![GITHUB](./WE-KNOW/weapons/github.png)
+![GITHUB](./WE-KNOW/weapons/npm.png)
  
  </div>
