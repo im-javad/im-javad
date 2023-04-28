@@ -27,13 +27,13 @@
 ![GULP](./WE-KNOW/front-end/gulp.png)
  
  ### `/* weapons */`
-![PS](./WE-KNOW/tools/adobe-photoshop.png)
-![POSTMAN](./WE-KNOW/tools/postman.png)
-![trello](./WE-KNOW/tools/trello.png)
-![GITLAB](./WE-KNOW/tools/gitlab.png)
-![COMPOSER](./WE-KNOW/tools/composer.png)
-![VSCODE](./WE-KNOW/tools/visual-studio-code.png)
-![GIT](./WE-KNOW/tools/git.png)
-![GITHUB](./WE-KNOW/tools/github.png)
+![PS](./WE-KNOW/weapons/adobe-photoshop.png)
+![POSTMAN](./WE-KNOW/weapons/postman.png)
+![trello](./WE-KNOW/weapons/trello.png)
+![GITLAB](./WE-KNOW/weapons/gitlab.png)
+![COMPOSER](./WE-KNOW/weapons/composer.png)
+![VSCODE](./WE-KNOW/weapons/visual-studio-code.png)
+![GIT](./WE-KNOW/weapons/git.png)
+![GITHUB](./WE-KNOW/weapons/github.png)
  
  </div>
