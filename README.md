@@ -19,6 +19,7 @@
 ![HTML5](./WE-KNOW/front-end/html5.png)
 ![CSS3](./WE-KNOW/front-end/css3.png)
 ![REDUX](./WE-KNOW/front-end/redux.png)
+![BABEL](./WE-KNOW/front-end/babel.png)
 ![SASS](./WE-KNOW/front-end/sass.png)
 ![GULP](./WE-KNOW/front-end/gulp.png)
 ![PS](./WE-KNOW/weapons/adobe-photoshop.png)
