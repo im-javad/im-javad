@@ -1,7 +1,5 @@
 <div align="center">
 
-# Soon...
-
 ## SPECIALTIES
 ![PHP](./WE-KNOW/back-end/php.png)
 ![LARAVEL](./WE-KNOW/back-end/laravel.png)
